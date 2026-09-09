@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BlueprintReader",
+	"Description": "Get a text explanation of your Blueprints, meant to be used to give Blueprint Context to AI",
+	"Category": "Editor",
+	"CreatedBy": "nikpapa3010",
+	"CreatedByURL": "https://github.com/nikpapa3010",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintReader",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
