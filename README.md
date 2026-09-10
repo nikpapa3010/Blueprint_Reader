@@ -11,8 +11,8 @@ Blueprint Reader has been tested for Unreal Engine 5.5 up to 5.8
 
 ## Installation
 
-1. Download release ZIP file
-2. Extract it in your projects `Plugins\` folder.
+1. Download the release ZIP file depending on your UE5 version.
+2. Extract it in your projects `Plugins\` folder (create one if it does not exist).
 3. Open your Unreal project and enable the plugin via Edit -> Plugins.
 4. If asked, restart editor.
 
