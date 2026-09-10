@@ -3,9 +3,11 @@
 
 # Blueprint Reader
 
-Blueprint Reader is an Unreal Engine 5.7 plugin for the blueprint editor, including assets types like Animation Blueprint, which reads the node connections, either from selected nodes or by reading all event nodes in a blueprint, and returns a text explanation of them. This explanation is constructed in a way that AI like ChatGPT and Claude can read and understand without needing further assistance.
+Blueprint Reader is an Unreal Engine plugin for the blueprint editor, including assets types like Animation Blueprint, which reads the node connections, either from selected nodes or by reading all event nodes in a blueprint, and returns a text explanation of them. This explanation is constructed in a way that AI like ChatGPT and Claude can read and understand without needing further assistance.
 
 This plugin is meant to help you understand errors or clarify confusing Blueprint logic faster with the help of AI.
+
+Blueprint Reader has been tested for Unreal Engine 5.5 up to 5.8
 
 ## Installation
 
