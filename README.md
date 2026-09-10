@@ -1,5 +1,6 @@
-![license](https://img.shields.io/badge/license-MIT-green)
 ![UE_Badge](https://img.shields.io/badge/Unreal_Engine_Version-5.5--5.8-blue?logo=unrealengine)
+[license](https://img.shields.io/badge/license-MIT-green)
+
 
 # Blueprint Reader
 
