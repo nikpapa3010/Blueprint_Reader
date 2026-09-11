@@ -1,5 +1,6 @@
-![UE_Badge](https://img.shields.io/badge/Unreal_Engine_Version-5.5--5.8-blue?logo=unrealengine)
-![license](https://img.shields.io/badge/license-MIT-green)
+![UE_Badge](https://img.shields.io/badge/Unreal_Engine_Version-5.5--5.8-1d1f34?logo=unrealengine)
+![license](https://img.shields.io/badge/License-MIT-green)
+![Static Badge](https://img.shields.io/badge/License-Fab_Standard_Licence_(Fab_EULA)-blue?link=https%3A%2F%2Fwww.fab.com%2Feula)
 
 # Blueprint Reader
 
