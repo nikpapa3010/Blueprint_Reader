@@ -10,7 +10,21 @@ This plugin is meant to help you understand errors or clarify confusing Blueprin
 
 Blueprint Reader has been tested for Unreal Engine 5.5 up to 5.8
 
+Fab link: (To be included)
+
 ## Installation
+
+### Fab
+
+1. Visit fab page (TODO: Add link)
+2. Press "Add to library"
+3. Go to Epic games launcher -> Unreal Engine -> Library
+4. Scroll down to "Fab library" and search for "Blueprint Reader"
+5. Press Install to Engine, and select the engine you want to download the plugin in.
+6. Open your Unreal project and enable the plugin via Edit -> Plugins.
+7. If asked, restart editor.
+
+### Git
 
 1. Download the release ZIP file depending on your UE5 version.
 2. Extract it in your projects `Plugins\` folder (create one if it does not exist).
